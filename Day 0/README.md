@@ -1,4 +1,6 @@
-## Try it!
+# mkdir
+
+### Try it!
 In order to compile this utility the following packages are needed:
 
 `sudo apt install build-essential libboost-program-options-dev`
